@@ -1,0 +1,6 @@
+framework module Pods_OutletApp {
+  umbrella header "Pods-OutletApp-umbrella.h"
+
+  export *
+  module * { export * }
+}

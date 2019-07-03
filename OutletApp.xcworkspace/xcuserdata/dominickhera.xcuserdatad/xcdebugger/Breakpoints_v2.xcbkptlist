@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OutletApp/CampaignCollectionViewCell.swift"
+            timestampString = "583873542.996179"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "CampaignCollectionViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OutletApp.CampaignCollectionViewCell.init(frame: __C.CGRect) -&gt; OutletApp.CampaignCollectionViewCell"
+                  moduleName = "OutletApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dominickhera/Library/CloudStorage/iCloud%20Drive/Desktop/OutletApp/OutletApp/CampaignCollectionViewCell.swift"
+                  timestampString = "583870328.983477"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "572">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OutletApp.CampaignCollectionViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;OutletApp.CampaignCollectionViewCell&gt;"
+                  moduleName = "OutletApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dominickhera/Library/CloudStorage/iCloud%20Drive/Desktop/OutletApp/OutletApp/CampaignCollectionViewCell.swift"
+                  timestampString = "583870328.984982"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "573">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
